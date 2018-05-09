@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Robot2GJBA11w
 {
-    public partial class Form1 : Form
+    public partial class frmModeloDeDatos : Form
     {
-        public Form1()
+        public frmModeloDeDatos()
         {
             InitializeComponent();
         }
